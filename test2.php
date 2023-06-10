@@ -1,4 +1,4 @@
 <?
-echp "tsts"
+echo "tsts"
 
 ?>
